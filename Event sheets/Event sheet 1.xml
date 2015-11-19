@@ -13,5 +13,11 @@
             </conditions>
             <actions />
         </event-block>
+        <event-block sid="9874903575362598">
+            <conditions>
+                <condition id="11" name="Collisions enabled" sid="1165179844654909" type="Sprite" />
+            </conditions>
+            <actions />
+        </event-block>
     </events>
 </c2eventsheet>
